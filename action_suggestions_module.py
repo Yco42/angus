@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 # It's critical to keep API keys secure and not hard-code them in scripts
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='')
 
 # Config
 engine_version = 'gpt-4'  # Assuming the use of a ChatGPT model, "gpt-3.5-turbo" might be a correct identifier; verify with the latest documentation
