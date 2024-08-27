@@ -5,7 +5,7 @@ from action_suggestions_module import fetch_action_suggestion
 
 # Assuming the OpenAI API key is set in your environment variables,
 # or you can set it directly (ensure secure management of your API key)
-openai.api_key = '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'
+openai.api_key = ''
 
 def main():
     # Prompt the user for input
